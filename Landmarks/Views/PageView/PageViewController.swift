@@ -21,7 +21,8 @@ struct PageViewController<Page: View>: UIViewControllerRepresentable {
             transitionStyle: .scroll,
             navigationOrientation: .horizontal)
         pageViewController.dataSource = context.coordinator
-        
+        pageViewController.delegate = context.coordinator
+
         return pageViewController
     }
     
