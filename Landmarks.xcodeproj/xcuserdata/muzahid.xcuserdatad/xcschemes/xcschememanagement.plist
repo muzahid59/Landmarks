@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>MacLandmarks.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 		<key>WatchLandmarks (Complication).xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -27,6 +32,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>4A8AE26025BA9BDD0031D6DF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>4AB236F025B2B958007CC5BA</key>
 		<dict>
 			<key>primary</key>
